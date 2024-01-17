@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c70039&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+CK...;A+Caffeine+Addicted+Scientist...;Follow%2C+Fork%2C+Star+%26+Connect...;Let's+Build+Data+World...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c70039&center=true&vCenter=true&width=435&lines=Hi+there%2C+AROMAL...;FOOTBALL...;CODE...;HAHAHA!...)](https://git.io/typing-svg)
 <!--
 <h2 align="center">A R O M A L ...<img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/waving.gif" alt="waving.gif" height=25px width=27px></h2>
 
@@ -7,17 +7,17 @@
 
 ### <img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/Handshake.gif" alt="Handshake.gif" width=40px> Let's Connect
 
-[<img align="left" alt="Ligin Thomas CK | Facebook" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/facebook.svg" />](https://www.facebook.com/AromalShaji)
-[<img align="left" alt="Ligin Thomas CK | Instagram" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/instagram.svg" />](https://www.instagram.com/AromalShaji)
-[<img align="left" alt="Ligin Thomas CK | Twitter" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/twitter.svg" />](https://twitter.com/AromalShaji?)
-[<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/pinterest.svg" />](https://in.pinterest.com/AromalShaji/)
-[<img align="left" alt="Ligin Thomas CK | telegram" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/telegram.svg" />](https://t.me/AromalShaji)
+[<img align="left" alt="Aromal Shaji | Facebook" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/facebook.svg" />](https://www.facebook.com/AromalShaji)
+[<img align="left" alt="Aromal Shaji | Instagram" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/instagram.svg" />](https://www.instagram.com/AromalShaji)
+[<img align="left" alt="Aromal Shaji | Twitter" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/twitter.svg" />](https://twitter.com/AromalShaji?)
+[<img align="left" alt="Aromal Shaji | Pinterest" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/pinterest.svg" />](https://in.pinterest.com/AromalShaji/)
+[<img align="left" alt="Aromal Shaji | telegram" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/telegram.svg" />](https://t.me/AromalShaji)
 <br/>
 
-[<img align="left" alt="Ligin Thomas CK | Linkedin" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/linkedin.svg" />](https://www.linkedin.com/in/AromalShaji/)
-[<img align="left" alt="Ligin Thomas CK | Reddit" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/reddit.svg" />](https://www.reddit.com/user/Ciya_Khan)
-[<img align="left" alt="Ligin Thomas CK | Pinterest" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/glitch.svg" />](https://glitch.com/@AromalShaji)
-[<img align="left" alt="Ligin Thomas CK | Kaggle" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/kaggle.svg" />](https://www.kaggle.com/ciyakhan)
+[<img align="left" alt="Aromal Shaji | Linkedin" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/linkedin.svg" />](https://www.linkedin.com/in/AromalShaji/)
+[<img align="left" alt="Aromal Shaji | Reddit" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/reddit.svg" />](https://www.reddit.com/user/Ciya_Khan)
+[<img align="left" alt="Aromal Shaji | Pinterest" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/glitch.svg" />](https://glitch.com/@AromalShaji)
+[<img align="left" alt="Aromal Shaji | Kaggle" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/kaggle.svg" />](https://www.kaggle.com/ciyakhan)
 <br/>
 <br/>
 
@@ -44,12 +44,12 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AromalShaji&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](CiyaKhan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AromalShaji&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](AromalShaji)
 <br/>
 
 ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
 
-![CK's github stats](https://github-readme-stats.vercel.app/api?username=AromalShaji&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![APS's github stats](https://github-readme-stats.vercel.app/api?username=AromalShaji&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 <br/>
 <img src = "https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/codyfire.gif" width=300px />
