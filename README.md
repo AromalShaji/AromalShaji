@@ -14,10 +14,10 @@
 [<img align="left" alt="Aromal Shaji | telegram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/telegram.svg" />](https://t.me/AromalShaji)
 <br/>
 
-[<img align="left" alt="Aromal Shaji | Linkedin" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/linkedin.svg" />](https://www.linkedin.com/in/AromalShaji/)
-[<img align="left" alt="Aromal Shaji | Reddit" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/reddit.svg" />](https://www.reddit.com/user/AromalShaji)
-[<img align="left" alt="Aromal Shaji | Pinterest" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/glitch.svg" />](https://glitch.com/@AromalShaji)
-[<img align="left" alt="Aromal Shaji | Kaggle" width="22px" src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/kaggle.svg" />](https://www.kaggle.com/AromalShaji )
+[<img align="left" alt="Aromal Shaji | Linkedin" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linkedin.svg" />](https://www.linkedin.com/in/AromalShaji/)
+[<img align="left" alt="Aromal Shaji | Reddit" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/reddit.svg" />](https://www.reddit.com/user/AromalShaji)
+[<img align="left" alt="Aromal Shaji | Pinterest" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/glitch.svg" />](https://glitch.com/@AromalShaji)
+[<img align="left" alt="Aromal Shaji | Kaggle" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/kaggle.svg" />](https://www.kaggle.com/AromalShaji )
 <br/>
 <br/>
 
