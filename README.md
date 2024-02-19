@@ -3,6 +3,8 @@
 <h2 align="center">A R O M A L ...<img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/waving.gif" alt="waving.gif" height=25px width=27px></h2>
 
 <br clear="both">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -41,7 +43,7 @@
 ![APS's github stats](https://github-readme-stats.vercel.app/api?username=AromalShaji&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 <br/>
-<img src = "https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/codyfire.gif" width=300px />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500" />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 <br/>
 
