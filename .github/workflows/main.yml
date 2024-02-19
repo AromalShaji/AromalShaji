@@ -13,9 +13,8 @@ jobs:
       # Snake Animation
       - name: Snake Animation
         uses: Platane/snk@master
-        id: snake-gif
         with:
-          github_user_name: ${{ secrets.AromalShaji }}  # Corrected syntax
+          github_user_name: ${{ secrets.AromalShaji }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # GitHub Pages Action
@@ -25,8 +24,8 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.DEPENDABOT_TOKEN }}
-          PAT_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.MY_PAT_SECRET }}
 
 # Define permissions
 permissions:
