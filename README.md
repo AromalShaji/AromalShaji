@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c70039&center=true&vCenter=true&width=435&lines=Hi+there%2C+AROMAL...;CODE...;SOFTWARE.DEVELOPER!...)](https://git.io/typing-svg)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<br><br>
 <h2 align="center">A R O M A L ...<img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/master/assets/waving.gif" alt="waving.gif" height=25px width=27px></h2>
 
 <br clear="both">
