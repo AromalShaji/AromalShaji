@@ -27,7 +27,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.DEPENDABOT_TOKEN }}
           PAT_TOKEN: ${{ secrets.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 }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 # Define permissions
 permissions:
