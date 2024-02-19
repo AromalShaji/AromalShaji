@@ -19,29 +19,17 @@
 [<img align="left" alt="Aromal Shaji | Pinterest" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/glitch.svg" />](https://glitch.com/@AromalShaji)
 [<img align="left" alt="Aromal Shaji | Kaggle" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/kaggle.svg" />](https://www.kaggle.com/AromalShaji )
 <br/>
-<br/>
-
-### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20px >&nbsp; Tools & Languages
-
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/vscode.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/jupyter.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/tableau.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/tensorflow.svg" />](AromalShaji )
-<br/>
-
-[<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/cpp.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/html.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/js.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/mysql.svg" />](AromalShaji )
-<br/>
-
-[<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/java.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/python.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/django.svg" />](AromalShaji )
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/mongodb.svg" />](AromalShaji )
-<br/>
-<br/>
-
+<br/><br/>
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
+[<img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>](https://www.djangoproject.com/)
+[<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>](https://www.php.net/)
+[<img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>](https://laravel.com/)
+[<img align="left" alt="Blade" width="26px" src="https://laravel.com/img/favicon/favicon-32x32.png"/>](https://laravel.com/)
+[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>](https://getbootstrap.com/)
+[<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com/)
+[<img align="left" alt="TensorFlow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](https://www.tensorflow.org/)
+<br/><br/><br/>
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AromalShaji&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](AromalShaji)
