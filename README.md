@@ -5,19 +5,6 @@
 ![Metrics](https://metrics.lecoq.io/AromalShaji?template=classic&base.metadata=0&languages=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=byte-size%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&tweets=false&tweets.user=AromalShaji&tweets.attachments=true&tweets.limit=3&config.timezone=Asia%2FCalcutta)
 -->
 
-### <img src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/Handshake.gif" alt="Handshake.gif" width=40px> Let's Connect
-
-[<img align="left" alt="Aromal Shaji | Facebook" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/facebook.svg" />](https://www.facebook.com/AromalShaji)
-[<img align="left" alt="Aromal Shaji | Instagram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/instagram.svg" />](https://www.instagram.com/AromalShaji)
-[<img align="left" alt="Aromal Shaji | Twitter" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/twitter.svg" />](https://twitter.com/AromalShaji?)
-[<img align="left" alt="Aromal Shaji | Pinterest" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/pinterest.svg" />](https://in.pinterest.com/AromalShaji/)
-[<img align="left" alt="Aromal Shaji | telegram" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/telegram.svg" />](https://t.me/AromalShaji)
-<br/>
-
-[<img align="left" alt="Aromal Shaji | Linkedin" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/linkedin.svg" />](https://www.linkedin.com/in/AromalShaji/)
-[<img align="left" alt="Aromal Shaji | Reddit" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/reddit.svg" />](https://www.reddit.com/user/AromalShaji)
-[<img align="left" alt="Aromal Shaji | Pinterest" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/glitch.svg" />](https://glitch.com/@AromalShaji)
-[<img align="left" alt="Aromal Shaji | Kaggle" width="22px" src="https://raw.githubusercontent.com/liginthomasck/liginthomasck/master/assets/kaggle.svg" />](https://www.kaggle.com/AromalShaji )
 <br/>
 <br/><br/>
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
