@@ -15,7 +15,7 @@ jobs:
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ secrets.AromalShaji }}
+          github_user_name: ${{ secrets.NAME }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # GitHub Pages Action
@@ -25,8 +25,8 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }},${{ secrets.DEPENDABOT_TOKEN }}
-          PAT_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.SSH }}
+          PAT_TOKEN: ${{ secrets.PAT }}
 
 # Define permissions
 permissions:
