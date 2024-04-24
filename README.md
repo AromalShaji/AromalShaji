@@ -79,7 +79,7 @@ const aromal = {
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone: Asia/Kerala
 
 💬 Programming Languages: 
 Python                   4 hrs 7 mins        ███████████████████░░░░░░   76.09 % 
