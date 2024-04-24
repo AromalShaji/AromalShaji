@@ -1,5 +1,5 @@
 ![GitHub Header Image](https://github.com/AromalShaji/AromalShaji/raw/main/assets/github-header-image%20(2).png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c70039&center=true&vCenter=true&width=435&lines=CODE;THINK;DEVELOPE;MCA+Graduate+2023;BCA+Graduate+2021;Passionate+about+Coding+and+Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c70039&center=true&vCenter=true&width=435&lines=THINK;CODE;DEVELOPE;)](https://git.io/typing-svg)
 
 <!--<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">-->
 <div align="center">
@@ -74,7 +74,7 @@ const aromal = {
 <!--### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px" style="color:red;">  GitHub Stats
 
 ![APS's github stats](https://github-readme-stats.vercel.app/api?username=AromalShaji&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
 <br/>-->
 📊 **This Week I Spent My Time On** 
 
@@ -91,8 +91,5 @@ Git                      0 secs              ░░░░░░░░░░░�
 💻 Operating System: 
 Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
-
-|            |
-| ---------- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117) |
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)  
 
