@@ -25,7 +25,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.SSH }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
           PAT_TOKEN: ${{ secrets.PAT }}
 
 # Define permissions
