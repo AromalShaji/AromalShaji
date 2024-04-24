@@ -45,6 +45,10 @@
   </a>
 </div>
 
+```console
+aromalshaji@github:~$ dev
+```
+
 ```javascript
 const aromal = {
     pronouns: "he" | "him",
@@ -67,10 +71,28 @@ const aromal = {
 <br/>>-->
 <!--<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"><br><br>
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"><br><br>-->
-### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px" style="color:red;">  GitHub Stats
+<!--### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px" style="color:red;">  GitHub Stats
 
 ![APS's github stats](https://github-readme-stats.vercel.app/api?username=AromalShaji&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-<br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300" style="color:red;">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+<br/>-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   4 hrs 7 mins        ███████████████████░░░░░░   76.09 % 
+PHP                      1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
+|            |
+| ---------- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117) |
+
