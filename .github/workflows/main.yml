@@ -1,35 +1,92 @@
-name: Generate Datas
+name: main
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+on: [push]
 
 jobs:
-  build:
-    name: Jobs to update datas
+  test:
     runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - name: Snake Animation
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ secrets.NAME }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # GitHub Pages Action
-      - name: GitHub Pages Action
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
         with:
-          target_branch: output
-          build_dir: dist
+          cache: yarn
+          node-version: 20
+      - run: yarn install --frozen-lockfile
+
+      - run: npm run type
+      - run: npm run lint
+      - run: npm run test --ci
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-          PAT_TOKEN: ${{ secrets.PAT }}
 
-# Define permissions
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
+  test-action:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: update action.yml to use image from local Dockerfile
+        run: |
+          sed -i "s/image: .*/image: Dockerfile/" action.yml
+
+      - name: generate-snake-game-from-github-contribution-grid
+        id: generate-snake
+        uses: ./
+        with:
+          github_user_name: platane
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: ensure the generated file exists
+        run: |
+          ls output
+          test -f output/github-contribution-grid-snake.svg
+          test -f output/github-contribution-grid-snake-dark.svg
+          test -f output/github-contribution-grid-snake.gif
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+
+  test-action-svg-only:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          cache: yarn
+          node-version: 20
+      - run: yarn install --frozen-lockfile
+
+      - name: build svg-only action
+        run: |
+          npm run build:action
+          rm -r svg-only/output
+          mv packages/action/output svg-only/output
+
+      - name: generate-snake-game-from-github-contribution-grid
+        id: generate-snake
+        uses: ./svg-only
+        with:
+          github_user_name: platane
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: ensure the generated file exists
+        run: |
+          ls output
+          test -f output/github-contribution-grid-snake.svg
+          test -f output/github-contribution-grid-snake-dark.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-svg-only
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
