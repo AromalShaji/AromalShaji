@@ -91,7 +91,7 @@ CSS                      0 secs              ░░░░░░░░░░░�
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)  
 
