@@ -54,7 +54,7 @@ aromalshaji@github:~$ dev
 ```javascript
 const aromal = {
     pronouns: "he" | "him",
-    code: [Python, PHP, JAVA, DJANGO, LARAVEL, SERVLET, JSP, FLASK, CODIGNATOR, HTML, CSS, JS ],
+    code: [Python, PHP, JAVA, DJANGO, LARAVEL, SERVLET, JSP, FLASK, CODEIGNATOR, HTML, CSS, JS ],
     askMeAbout: ["web dev", "tech", "football", "music"],  
 };
 ```
