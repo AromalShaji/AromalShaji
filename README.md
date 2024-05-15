@@ -78,20 +78,20 @@ const aromal = {
 ![APS's github stats](https://github-readme-stats.vercel.app/api?username=AromalShaji&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
 <br/>-->
-📊 **This Week I Spent My Time On** 
+📊 **Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kerala
 
 💬 Programming Languages: 
-Python                   4 hrs 7 mins        ███████████████████░░░░░░   76.09 % 
-PHP                      1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Python                   7 hrs 7 mins        ███████████████████░░░░░░   76.09 % 
+PHP                      4 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)  
 
