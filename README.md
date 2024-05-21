@@ -1,5 +1,5 @@
 ![GitHub Header Image](https://github.com/AromalShaji/AromalShaji/raw/main/assets/github-header-image%20(2).png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c70039&center=true&vCenter=true&width=435&lines=THINK;CODE;DEVELOPE;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&color=c70039&center=true&vCenter=true&width=435&lines=THINK;CODE;DEVELOPE;)](https://git.io/typing-svg)
 
 <!--<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">-->
 <!--![snake gif](https://github.com/AromalShaji/AromalShaji/blob/output/github-contribution-grid-snake.gif)-->
