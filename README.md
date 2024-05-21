@@ -93,4 +93,4 @@ Git                      0 secs              ░░░░░░░░░░░�
 💻 Operating System: 
 Windows                  12 hrs 25 mins       █████████████████████████   100.00 % 
 ```
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AromalShaji&theme=tokyonight&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=50%2CEBEBEB%2C000000&border=EB5454&currStreakLabel=EB0000)](https://git.io/streak-stats)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AromalShaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalShaji&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)  
