@@ -1,7 +1,7 @@
 ![GitHub Header Image](https://github.com/AromalShaji/AromalShaji/raw/main/assets/github-header-image%20(2).png)
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&color=c70039&center=true&vCenter=true&width=435&lines=THINK;CODE;DEVELOPE;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&color=c70039&center=true&vCenter=true&width=435&lines=THINK;DESIGN;DEVELOPE;" alt="Typing SVG">
   </a>
 </div>
 
