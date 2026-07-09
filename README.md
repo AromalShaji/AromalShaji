@@ -35,6 +35,6 @@ aromalshaji@github:~$ dev
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-streak.svg" alt="[ STATUS: Generating Streak Stats... Please check back in a few minutes! ]" width="100%">
+  <img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-streak.svg" alt="[ STATUS: Generating Streak Stats... Please check back in a few minutes! ]">
 </div>
 
