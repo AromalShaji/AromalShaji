@@ -5,8 +5,6 @@
   </a>
 </div>
 
-<!--![snake gif](https://github.com/AromalShaji/AromalShaji/blob/output/github-contribution-grid-snake.gif)-->
-
 <div align="center">
   <picture>
     <source
@@ -18,7 +16,7 @@
       srcset="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="[ STATUS: Generating Snake Animation... If you are seeing this, the GitHub Action is currently running. ]"
+      alt="Loading... Please check back in a few minutes!"
       src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-contribution-grid-snake.svg"
     />
   </picture>
@@ -35,6 +33,6 @@ aromalshaji@github:~$ dev
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-streak.svg" alt="[ STATUS: Generating Streak Stats... Please check back in a few minutes! ]">
+  <img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-streak.svg" alt="Loading... Please check back in a few minutes!">
 </div>
 
