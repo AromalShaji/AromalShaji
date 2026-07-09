@@ -18,7 +18,7 @@
       srcset="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="github contribution grid snake animation"
+      alt="[ STATUS: Generating Snake Animation... If you are seeing this, the GitHub Action is currently running. ]"
       src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-contribution-grid-snake.svg"
     />
   </picture>
@@ -35,6 +35,6 @@ aromalshaji@github:~$ dev
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/AromalShaji/AromalShaji/output/github-metrics.svg" alt="[ STATUS: Generating Metrics... If you are seeing this, the GitHub Action is currently running or pending. Please check back in a few minutes! ]" width="100%">
 </div>
 
